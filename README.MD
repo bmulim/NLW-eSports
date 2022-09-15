@@ -1,0 +1,21 @@
+# NLW eSports 
+
+![preview](./.github/preview.png)
+
+> Trilha Explorer
+
+Projeto contruído do ecento Next Level da Rocketseat
+
+[Clique aqui para acessar](https://bmulim.github.io/NLW/)
+
+
+## Tecnologias
+
+-HTML
+-CSS
+-Git e Github
+
+## Contato
+
+bruno.mulim.prog@gmail.com
+ 
