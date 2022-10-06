@@ -4,9 +4,9 @@
 
 > Trilha Explorer
 
-Projeto contruído do ecento Next Level da Rocketseat
+Projeto contruído do evento Next Level da Rocketseat
 
-[Clique aqui para acessar](https://bmulim.github.io/NLW/)
+[Clique aqui para acessar](https://bmulim.github.io/NLW-eSports/)
 
 
 ## Tecnologias
